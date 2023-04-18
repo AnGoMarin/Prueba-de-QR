@@ -9,6 +9,7 @@
     font-size: 11px;
     text-align: center;
     display: none;
+    position: bottom;
 }
 
 .atribution a {
